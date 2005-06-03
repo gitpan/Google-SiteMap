@@ -1,0 +1,6 @@
+Revision history for Perl extension Google::SiteMap.
+
+0.01  Fri Jun  3 13:35:47 2005
+	- original version; created by h2xs 1.23 with options
+		-X Google::SiteMap
+
